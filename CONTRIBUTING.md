@@ -26,8 +26,9 @@ House rules:
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
 - One mint glow on forest green: mint for links, fills, tags and the caret, and the only
-  shadow is a mint glow. The only embedded font is Forum (the title, the two largest
-  headings and quotes): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+  shadow is a mint glow. The only embedded font is Canopy Serif, a renamed subset of
+  Forum (the title, the two largest headings and quotes): `fonts/*.woff2` are written
+  into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

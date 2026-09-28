@@ -159,7 +159,7 @@ colour; the plain note is the featured one, with a soft mint glow.</p></div>
 {callout("success", "check", "Done", "Mint green for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Amber for what needs a look, coral for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Plant for the shade you will never sit in.</p></blockquote></div>
-{table(["Face", "Role"], ["Forum", "Title, the two largest headings, quotes"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
+{table(["Face", "Role"], ["Canopy Serif", "Title, the two largest headings, quotes"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
 """
 
 NOTE_RU = f"""
