@@ -35,10 +35,14 @@ surfaces, a luminous display serif and one mint glow for what you act on.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Canopy**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Trellis**. Install Borozdov Trellis under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Canopy** under Style Settings → Borozdov Trellis → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/canopy/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Canopy/`, then choose Borozdov Canopy under
 Settings → Appearance → Themes.
@@ -59,5 +63,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: тёмный «Роща» — живое изумрудное
 святилище, и светлый «Поляна» — тот же лес на солнечной поляне. Глубокие лесные
 поверхности, светлый заголовок с засечками (Canopy Serif) и одно мятное свечение для того,
-что вы делаете. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить →
-Borozdov Canopy → Установить и применить.
+что вы делаете. В каталоге тема живёт вариантом Borozdov Trellis: установите Borozdov Trellis и плагин Style Settings, затем выберите Canopy в Style Settings → Borozdov Trellis → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
